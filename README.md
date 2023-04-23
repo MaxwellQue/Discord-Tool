@@ -1,4 +1,4 @@
-# Discord-Nuke
+# Discord-Tool
 
 ## Features
 
@@ -10,5 +10,5 @@
   - Channels
 
 ### Setup
-1. [Download EXE File](https://github.com/MaxwellQue/Discord-Nuke/archive/refs/heads/main.zip)
+1. [Download EXE File](https://github.com/MaxwellQue/Discord-Tool/archive/refs/heads/main.zip)
 2. Run `main.exe`
