@@ -3,7 +3,6 @@
 ## Features
 
 - Server Nuke
-
   - Members
   - Roles
   - Emoji
@@ -11,7 +10,6 @@
   - Channels
 
 - Discord Account Nuke
-
   - In Development
 
 ### Setup
