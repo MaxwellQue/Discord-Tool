@@ -1,0 +1,20 @@
+{
+    "ACCOUNT": {
+        "token": "token"
+    },
+    "DISCORDNUKE": {
+        "banreason": "Tite",
+        "bottoken": "",
+        "channellimit": 20,
+        "channelname": "nudos",
+        "invitelink": "discord.gg/nudos",
+        "message": "Message here",
+        "messagelimit": 10,
+        "prefix": "/",
+        "rolelimit": 20,
+        "rolename": "nudos",
+        "servername": "Name of the server you want to Rename",
+        "spammessage": false,
+        "webhookname": "nudos"
+    }
+}
